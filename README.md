@@ -1,5 +1,5 @@
 # Athena
-gta external cheat
+GTAV external cheat
 
 # Features
 
@@ -7,4 +7,4 @@ gta external cheat
 | ------- | -----------------------------------------|
 
 # Memory Reading/Writing
-Ares uses [memory.dll](https://github.com/erfg12/memory.dll/)
+Athena uses [memory.dll](https://github.com/erfg12/memory.dll/)
